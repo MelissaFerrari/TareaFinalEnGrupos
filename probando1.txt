@@ -1,4 +1,8 @@
-Soy Usuario B (Carla Cocirio)
+﻿Soy Usuario B (Carla Cocirio)
 	Comparto frase:
 	"Sabes cuál es el problema? Imaginarte un algortimo y no programarlo"
 	...
+
+Usuario A (Melissa Ferrari)
+
+        "un algoritmo debe verse para creerse"
